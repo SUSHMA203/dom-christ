@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<Christ>
+<cs>
+<studentname>Sanvi</studentname>
+<studentcollege>St.Francis College</studentcollege>
+<studentemail>sanvi23@gmail.com</studentemail>
+<studentbranch>banglore university</studentbranch>
+</cs>
+<cs>
+<studentname>Vinuth</studentname>
+<studentcollege>Acharya College</studentcollege>
+<studentemail>vaibhav28@gmail.com</studentemail>
+<studentbranch>banglore university</studentbranch>
+</cs>
+<cs>
+<studentname>Venila</studentname>
+<studentcollege>Christ University</studentcollege>
+<studentemail>venila@christuniversity.in</studentemail>
+<studentbranch>christ university</studentbranch>
+</cs>
+</Christ>
